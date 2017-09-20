@@ -1,0 +1,21 @@
+﻿Installing assembly 'C:\Source\WindowsService1\WindowsService1\bin\Release\windowsservice1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Source\WindowsService1\WindowsService1\bin\Release\windowsservice1.InstallLog
+   assemblypath = C:\Source\WindowsService1\WindowsService1\bin\Release\windowsservice1.exe
+Installing service Youtube Windows service test...
+Service Youtube Windows service test has been successfully installed.
+Creating EventLog source Youtube Windows service test in log Application...
+Committing assembly 'C:\Source\WindowsService1\WindowsService1\bin\Release\windowsservice1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Source\WindowsService1\WindowsService1\bin\Release\windowsservice1.InstallLog
+   assemblypath = C:\Source\WindowsService1\WindowsService1\bin\Release\windowsservice1.exe
+Uninstalling assembly 'C:\Source\WindowsService1\WindowsService1\bin\Release\windowsservice1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Source\WindowsService1\WindowsService1\bin\Release\windowsservice1.InstallLog
+   assemblypath = C:\Source\WindowsService1\WindowsService1\bin\Release\windowsservice1.exe
+Removing EventLog source Youtube Windows service test.
+Service Youtube Windows service test is being removed from the system...
+Service Youtube Windows service test was successfully removed from the system.
